@@ -1,0 +1,5 @@
+unir_pdfs/*
+src/build/*
+src/dist/*
+*.pyc
+*.spec
