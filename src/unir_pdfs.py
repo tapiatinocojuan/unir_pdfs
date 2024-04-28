@@ -60,22 +60,22 @@ class MyFrame1 ( wx.Frame ):
 
 		self.m_bpButton1 = wx.BitmapButton( self.m_panel1, wx.ID_ANY, wx.NullBitmap, wx.DefaultPosition, wx.DefaultSize, wx.BU_AUTODRAW|0 )
 
-		self.m_bpButton1.SetBitmap( wx.Bitmap( u"../img/up.png", wx.BITMAP_TYPE_ANY ) )
+		self.m_bpButton1.SetBitmap( wx.Bitmap( u"img/up.png", wx.BITMAP_TYPE_ANY ) )
 		bSizer3.Add( self.m_bpButton1, 0, wx.ALL, 5 )
 
 		self.m_bpButton2 = wx.BitmapButton( self.m_panel1, wx.ID_ANY, wx.NullBitmap, wx.DefaultPosition, wx.DefaultSize, wx.BU_AUTODRAW|0 )
 
-		self.m_bpButton2.SetBitmap( wx.Bitmap( u"../img/down.png", wx.BITMAP_TYPE_ANY ) )
+		self.m_bpButton2.SetBitmap( wx.Bitmap( u"img/down.png", wx.BITMAP_TYPE_ANY ) )
 		bSizer3.Add( self.m_bpButton2, 0, wx.ALL, 5 )
 
 		self.m_bpButton3 = wx.BitmapButton( self.m_panel1, wx.ID_ANY, wx.NullBitmap, wx.DefaultPosition, wx.DefaultSize, wx.BU_AUTODRAW|0 )
 
-		self.m_bpButton3.SetBitmap( wx.Bitmap( u"../img/mas.png", wx.BITMAP_TYPE_ANY ) )
+		self.m_bpButton3.SetBitmap( wx.Bitmap( u"img/mas.png", wx.BITMAP_TYPE_ANY ) )
 		bSizer3.Add( self.m_bpButton3, 0, wx.ALL, 5 )
 
 		self.m_bpButton4 = wx.BitmapButton( self.m_panel1, wx.ID_ANY, wx.NullBitmap, wx.DefaultPosition, wx.DefaultSize, wx.BU_AUTODRAW|0 )
 
-		self.m_bpButton4.SetBitmap( wx.Bitmap( u"../img/del.png", wx.BITMAP_TYPE_ANY ) )
+		self.m_bpButton4.SetBitmap( wx.Bitmap( u"img/del.png", wx.BITMAP_TYPE_ANY ) )
 		bSizer3.Add( self.m_bpButton4, 0, wx.ALL, 5 )
 
 

@@ -3,3 +3,6 @@ src/build/*
 src/dist/*
 *.pyc
 *.spec
+*.iss
+Output/*
+Output

@@ -10,7 +10,7 @@ class UnirPdfsMyFrame1( unir_pdfs.MyFrame1 ):
         unir_pdfs.MyFrame1.__init__( self, parent )
         self.m_panel3.DragAcceptFiles( True )
         self.archivos = []
-        self.img = wx.Image(u"../img/fondo.png", wx.BITMAP_TYPE_ANY)
+        self.img = wx.Image(u"img/fondo.png", wx.BITMAP_TYPE_ANY)
         self.m_panel3.Refresh()
 
     # Handlers for MyFrame1 events.

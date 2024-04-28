@@ -299,7 +299,7 @@
                           <property name="auth_needed">0</property>
                           <property name="best_size"></property>
                           <property name="bg"></property>
-                          <property name="bitmap">Load From File; ../img/up.png</property>
+                          <property name="bitmap">Load From File; img/up.png</property>
                           <property name="caption"></property>
                           <property name="caption_visible">1</property>
                           <property name="center_pane">0</property>
@@ -374,7 +374,7 @@
                           <property name="auth_needed">0</property>
                           <property name="best_size"></property>
                           <property name="bg"></property>
-                          <property name="bitmap">Load From File; ../img/down.png</property>
+                          <property name="bitmap">Load From File; img/down.png</property>
                           <property name="caption"></property>
                           <property name="caption_visible">1</property>
                           <property name="center_pane">0</property>
@@ -449,7 +449,7 @@
                           <property name="auth_needed">0</property>
                           <property name="best_size"></property>
                           <property name="bg"></property>
-                          <property name="bitmap">Load From File; ../img/mas.png</property>
+                          <property name="bitmap">Load From File; img/mas.png</property>
                           <property name="caption"></property>
                           <property name="caption_visible">1</property>
                           <property name="center_pane">0</property>
@@ -524,7 +524,7 @@
                           <property name="auth_needed">0</property>
                           <property name="best_size"></property>
                           <property name="bg"></property>
-                          <property name="bitmap">Load From File; ../img/del.png</property>
+                          <property name="bitmap">Load From File; img/del.png</property>
                           <property name="caption"></property>
                           <property name="caption_visible">1</property>
                           <property name="center_pane">0</property>
